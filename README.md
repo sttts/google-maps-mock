@@ -1,4 +1,9 @@
 google-maps-mock
 ================
 
-Mocking the Google Maps JS library for Jasmine testing of angular-google-maps
+This small mock script mocks everything of
+
+  http://maps.googleapis.com/maps/api/js?sensor=false
+
+which is needed to load the angular-google-maps.js library. It is used by the author
+to run jasmine tests.

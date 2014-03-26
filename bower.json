@@ -1,0 +1,13 @@
+{
+    "name": "google-maps-mock",
+    "version": "0.0.1",
+    "main": "google-maps-mock.js",
+    "ignore": [
+        "bower.json",
+        "README.md"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
