@@ -18,6 +18,9 @@ window.google = {
 		OverlayView: function() {
 			return {};
 		},
+		InfoWindow: function() {
+			return {};
+		},
 		Marker: function() {
 			return {};
 		},
