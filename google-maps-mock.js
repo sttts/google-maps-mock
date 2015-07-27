@@ -35,6 +35,12 @@ window.google = {
 		},
 		Size: function() {
 			return {};
-		}
+		},
+        MapTypeId: {
+            HYBRID: "hybrid",
+            ROADMAP: "roadmap",
+            SATELLITE: "satellite",
+            TERRAIN: "terrain"
+        }
 	}
 };
